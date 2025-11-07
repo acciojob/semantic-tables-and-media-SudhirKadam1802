@@ -1,8 +1,5 @@
 
 /* Your CSS Code here. */
- table{
-    border-width: 1px;
-	border-color: black;
-	 border-style: solid;
-
+table{
+	border-collapse: collapse;
 }
